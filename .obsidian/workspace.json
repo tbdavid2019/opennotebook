@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "04ce0d48ae8a5dff",
+        "id": "23a25b62d6ade957",
         "type": "tabs",
         "children": [
           {
-            "id": "13eee72f36d4d1c8",
+            "id": "026a2ca3ac01f336",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "person/個人專案整理.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "person/個人專案整理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "person/個人專案整理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "person/個人專案整理.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,8 +140,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ded3b4f1aa181e1f",
+  "active": "026a2ca3ac01f336",
   "lastOpenFiles": [
+    "person/個人專案整理.md",
     "cmoney clone/系統架構.md",
     "cmoney clone/人力規劃.md",
     "cmoney clone/仿CMoney股市APP開發專案規劃.md",
@@ -157,7 +150,6 @@
     "Whatsapp 商家計畫/whatsapp 商戶營銷平台 背景知識.md",
     "Whatsapp 商家計畫/開發人力規劃-基本版.md",
     "Whatsapp 商家計畫/開發人力規劃-加強版LLM版.md",
-    "person/個人專案整理.md",
     "Welcome.md",
     "Whatsapp 商家計畫/輕量電商開源後端系統.md",
     "Whatsapp 商家計畫/Whatsapp PAY.md",
