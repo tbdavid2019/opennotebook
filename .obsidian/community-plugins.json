@@ -1,5 +1,6 @@
 [
   "vscode-editor",
   "editing-toolbar",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-git"
 ]
