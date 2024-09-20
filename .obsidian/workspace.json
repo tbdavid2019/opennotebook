@@ -157,9 +157,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "026a2ca3ac01f336",
+  "active": "ded3b4f1aa181e1f",
   "lastOpenFiles": [
+    "person/assets/Pasted image 20240911145812.png",
     "person/個人專案整理.md",
+    "person/assets/bots.png",
+    "person/assets/claude.png",
     "cmoney clone/系統架構.md",
     "cmoney clone/人力規劃.md",
     "cmoney clone/仿CMoney股市APP開發專案規劃.md",
@@ -171,12 +174,9 @@
     "Whatsapp 商家計畫/輕量電商開源後端系統.md",
     "Whatsapp 商家計畫/Whatsapp PAY.md",
     "Whatsapp 商家計畫/WhatsApp Business API 收費一覽.md",
-    "assets/Pasted image 20240911171316.png",
-    "assets/Pasted image 20240911172244.png",
     "person",
     "Whatsapp 商家計畫/計畫架構.md",
-    "assets/Pasted image 20240911145812.png",
-    "assets",
+    "person/assets",
     "Whatsapp 商家計畫"
   ]
 }
