@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "23a25b62d6ade957",
+        "id": "b1e169c3418acabf",
         "type": "tabs",
         "children": [
           {
-            "id": "026a2ca3ac01f336",
+            "id": "f306c98f4435a540",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,10 +157,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ded3b4f1aa181e1f",
+  "active": "f306c98f4435a540",
   "lastOpenFiles": [
-    "person/assets/Pasted image 20240911145812.png",
+    "某廠/watsons-water.md",
     "person/個人專案整理.md",
+    "某廠",
+    "person/assets/Pasted image 20240911145812.png",
     "person/assets/bots.png",
     "person/assets/claude.png",
     "cmoney clone/系統架構.md",
