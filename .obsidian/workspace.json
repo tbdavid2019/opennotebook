@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Whatsapp 商家計畫/提案3 WhatsApp + Web Storefront 電商平台開發.md",
+                "file": "person/個人專案整理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Whatsapp 商家計畫/提案3 WhatsApp + Web Storefront 電商平台開發.md",
+                "file": "person/個人專案整理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Whatsapp 商家計畫/提案3 WhatsApp + Web Storefront 電商平台開發.md",
+                "file": "person/個人專案整理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Whatsapp 商家計畫/提案3 WhatsApp + Web Storefront 電商平台開發.md"
+                "file": "person/個人專案整理.md"
               }
             }
           },
@@ -159,11 +159,13 @@
   },
   "active": "13c80a4418a4a8a8",
   "lastOpenFiles": [
+    "cmoney clone/人力規劃.md",
+    "cmoney clone/仿CMoney股市APP開發專案規劃.md",
+    "Whatsapp 商家計畫/WhatsApp 輕量電商 開源後端系統.md",
+    "Whatsapp 商家計畫/whatsapp 商戶營銷平台 背景知識.md",
     "Whatsapp 商家計畫/提案3 WhatsApp + Web Storefront 電商平台開發.md",
     "Whatsapp 商家計畫/提案2 WhatsApp 輕量電商 (LLM強化版).md",
     "Whatsapp 商家計畫/提案1 開發人力規劃-基本版.md",
-    "Whatsapp 商家計畫/whatsapp 商戶營銷平台 背景知識.md",
-    "Whatsapp 商家計畫/WhatsApp 輕量電商 開源後端系統.md",
     "Whatsapp 商家計畫/Whatsapp PAY.md",
     "Whatsapp 商家計畫/WhatsApp Business API 收費一覽.md",
     "Whatsapp 商家計畫/客戶需求.md",
@@ -174,8 +176,6 @@
     "person/assets/bots.png",
     "person/assets/claude.png",
     "cmoney clone/系統架構.md",
-    "cmoney clone/人力規劃.md",
-    "cmoney clone/仿CMoney股市APP開發專案規劃.md",
     "cmoney clone",
     "Welcome.md",
     "person",
