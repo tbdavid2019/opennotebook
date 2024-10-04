@@ -16,6 +16,7 @@
      - 活躍的社群與插件支持。
    - **GitHub**： [Sylius](https://github.com/Sylius/Sylius)
    - 新增產品 影片 https://www.youtube.com/watch?v=J-cJNDQP-Qg
+ **可以商用**。MIT 授權允許你不受限制地將軟體用於商業用途，甚至可以將其整合到專有產品中。唯一的要求是保留版權聲明和授權條款。
 
 ### 3. **Bagisto**
    - **介紹**：Bagisto 是一個基於 Laravel 的開源電商框架，適合構建靈活的產品和訂單管理系統。它專為中小型電商系統設計，簡單易用。
@@ -24,8 +25,9 @@
      - 支持多語言、多貨幣，適合全球市場。
      - 易於擴展，與 Laravel 社群插件兼容性強。
    - **GitHub**： [Bagisto](https://github.com/bagisto/bagisto)
+**OSL 3.0 授權允許商業用途**，但與 GPL 一樣，要求你開源所有衍生作品並遵守其授權條款。如果你想保護你的修改版並不公開源代碼，OSL v3.0 可能不是理想的選擇。
 
-### 4. **Vendure**  //david 推薦
+### 4. **Vendure**  //david 推薦 
    - **介紹**：Vendure 是基於 Node.js 和 TypeScript 的開源電商框架，使用 GraphQL API，專注於現代化的電商解決方案，並且非常靈活。
    - **特點**：
      - 內建產品、訂單、庫存管理功能。
@@ -35,7 +37,25 @@
    - DEMO https://demo.vendure.io
    - https://demo.vendure.io/admin/catalog/products/create
 	   - superadmin / superadmin
-   
+   可以商用，但是：
+	•	如果你使用 GPLv3，你必須公開你對軟體的修改。
+	•	如果你不希望公開修改版的源代碼，或希望有更多的商業支持，則需要購買 Vendure Commercial License (VCL)。
+
+要搭配 Storefront 
+## Remix Storefront[​](https://docs.vendure.io/guides/storefront/storefront-starters/#remix-storefront "Direct link to Remix Storefront")
+
+- 🔗 [remix-storefront.vendure.io](https://remix-storefront.vendure.io/)
+- 💻 [github.com/vendure-ecommerce/storefront-remix-starter](https://github.com/vendure-ecommerce/storefront-remix-starter)
+
+## Qwik Storefront[​](https://docs.vendure.io/guides/storefront/storefront-starters/#qwik-storefront "Direct link to Qwik Storefront")
+
+- 🔗 [qwik-storefront.vendure.io](https://qwik-storefront.vendure.io/)
+- 💻 [github.com/vendure-ecommerce/storefront-qwik-starter](https://github.com/vendure-ecommerce/storefront-qwik-starter)
+
+## Angular Storefront[​](https://docs.vendure.io/guides/storefront/storefront-starters/#angular-storefront "Direct link to Angular Storefront")
+
+- 🔗 [angular-storefront.vendure.io](https://angular-storefront.vendure.io/)
+- 💻 [github.com/vendure-ecommerce/storefront-angular-starter](https://github.com/vendure-ecommerce/storefront-angular-starter)
 
 ### 5. **OpenCart**
    - **介紹**：OpenCart 是一個輕量級的 PHP 電商平台，擁有廣泛的插件和主題支持，非常適合快速上手和簡單擴展的需求。
@@ -62,3 +82,7 @@
 - **如果你偏好 Node.js 和 GraphQL**，**Vendure** 和 **Medusa** 是兩個現代化且易於擴展的電商框架。
 
 這些開源專案都可以根據具體需求進行二次開發和整合到 WhatsApp 系統後端中。
+
+---
+
+
