@@ -2,7 +2,8 @@
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
-    "pageSize": "A4",
+    "includeName": true,
+    "pageSize": "Legal",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
