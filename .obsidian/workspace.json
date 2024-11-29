@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VR AR/AR 示範.md",
+                "file": "person/個人專案整理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AR 示範"
+              "title": "個人專案整理"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VR AR/AR 示範.md"
+                "file": "person/個人專案整理.md"
               },
               "icon": "lucide-list",
-              "title": "AR 示範 的大綱"
+              "title": "個人專案整理 的大綱"
             }
           },
           {
@@ -185,8 +185,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ded3b4f1aa181e1f",
+  "active": "e350bd27c87a00c4",
   "lastOpenFiles": [
+    "條款/隱私權條款.md",
+    "條款/attachments/Pasted image 20241126092132.png",
+    "條款/attachments",
+    "VR AR/AR 示範.md",
+    "條款",
     "person/個人專案整理.md",
     "person/assets/Pasted image 20240911145812.png",
     "Whatsapp 商家計畫/比較 api.md",
@@ -204,8 +209,6 @@
     "農業部臺中區農業改良場/attachments/Pasted image 20241107164216.png",
     "農業部臺中區農業改良場/attachments/Pasted image 20241116115704.png",
     "農業部臺中區農業改良場/attachments/Pasted image 20241116115209.png",
-    "農業部臺中區農業改良場/attachments/Pasted image 20241116115120.png",
-    "VR AR/AR 示範.md",
     "農業部臺中區農業改良場/(內) LLM 應用建置計畫- 農業部臺中區農業改良場.md",
     "未命名.canvas",
     "VR AR",
@@ -227,11 +230,8 @@
     "Whatsapp 商家計畫/實作方法",
     "Whatsapp 商家計畫/attachments",
     "Whatsapp 商家計畫/WhatsApp 輕量電商 開源後端系統.md",
-    "農業部臺中區農業改良場/(外) LLM 應用建置計畫-農業部臺中區農業改良場v2.md",
     "農業部臺中區農業改良場",
     "水廠",
-    "cmoney clone",
-    "person",
-    "person/assets"
+    "cmoney clone"
   ]
 }
