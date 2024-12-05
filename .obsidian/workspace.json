@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cmoney clone/人力規劃.md",
+                "file": "person/個人專案整理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "人力規劃 的反向連結"
+              "title": "個人專案整理 的反向連結"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cmoney clone/人力規劃.md",
+                "file": "person/個人專案整理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "人力規劃 的對外連結"
+              "title": "個人專案整理 的對外連結"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "person/個人專案整理.md"
+                "file": "農業部臺中區農業改良場/中部農業改良場 LLM 系統教育訓練大綱.md"
               },
               "icon": "lucide-list",
-              "title": "個人專案整理 的大綱"
+              "title": "中部農業改良場 LLM 系統教育訓練大綱 的大綱"
             }
           },
           {
@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 393.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,30 +185,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e350bd27c87a00c4",
+  "active": "73fac5ed01f2aead",
   "lastOpenFiles": [
+    "農業部臺中區農業改良場/中部農業改良場 LLM 系統教育訓練大綱.md",
+    "農業部臺中區農業改良場/交付帳密.md",
+    "農業部臺中區農業改良場/未命名.md",
+    "農業部臺中區農業改良場/給通用使用者.md",
+    "農業部臺中區農業改良場/out.md",
+    "農業部臺中區農業改良場/ppt3- System Administrators Training.md",
+    "農業部臺中區農業改良場/ppt2- Knowledge Managers Training.md",
+    "().md",
+    "農業部臺中區農業改良場/attachments/Pasted image 20241204134445.png",
+    "農業部臺中區農業改良場/attachments/Pasted image 20241204133616.png",
+    "農業部臺中區農業改良場/attachments/Pasted image 20241204133532.png",
+    "農業部臺中區農業改良場/attachments/Pasted image 20241204132454.png",
+    "農業部臺中區農業改良場/attachments/Pasted image 20241204132103.png",
+    "農業部臺中區農業改良場/attachments/Pasted image 20241204094825.png",
+    "農業部臺中區農業改良場/attachments/Pasted image 20241204091055.png",
+    "農業部臺中區農業改良場/attachments/Pasted image 20241204090704.png",
+    "農業部臺中區農業改良場/attachments/Pasted image 20241204090554.png",
+    "person/個人專案整理.md",
     "條款/隱私權條款.md",
     "條款/attachments/Pasted image 20241126092132.png",
     "條款/attachments",
     "VR AR/AR 示範.md",
     "條款",
-    "person/個人專案整理.md",
-    "person/assets/Pasted image 20240911145812.png",
     "Whatsapp 商家計畫/比較 api.md",
-    "農業部臺中區農業改良場/out.md",
     "農業部臺中區農業改良場/(外) LLM 應用建置計畫-農業部臺中區農業改良場v4.md",
     "農業部臺中區農業改良場/(外) LLM 應用建置計畫-農業部臺中區農業改良場 v1.md",
     "農業部臺中區農業改良場/3. Open WebUI 建置與帳號管理串接.md",
-    "農業部臺中區農業改良場/attachments/Pasted image 20241116122210.png",
-    "農業部臺中區農業改良場/attachments/Pasted image 20241116121939.png",
-    "農業部臺中區農業改良場/attachments/Pasted image 20241116121452.png",
-    "農業部臺中區農業改良場/attachments/Pasted image 20241116121231.png",
-    "農業部臺中區農業改良場/attachments/Pasted image 20241116121151.png",
     "農業部臺中區農業改良場/2. PDF 文件資料處理與載入報告.md",
     "農業部臺中區農業改良場/1.  Langflow & 向量資料庫 工作流設計與實作(或其他同類替代).md",
-    "農業部臺中區農業改良場/attachments/Pasted image 20241107164216.png",
-    "農業部臺中區農業改良場/attachments/Pasted image 20241116115704.png",
-    "農業部臺中區農業改良場/attachments/Pasted image 20241116115209.png",
     "農業部臺中區農業改良場/(內) LLM 應用建置計畫- 農業部臺中區農業改良場.md",
     "未命名.canvas",
     "VR AR",
@@ -221,15 +228,9 @@
     "Whatsapp 商家計畫/客戶需求.md",
     "Whatsapp 商家計畫/實作方法/Whatsapp API.md",
     "Whatsapp 商家計畫/實作方法/stripe.md",
-    "Whatsapp 商家計畫/實作方法/電商網站整合 Whatsapp API.md",
-    "cmoney clone/仿CMoney股市APP開發專案規劃.md",
-    "cmoney clone/人力規劃.md",
-    "水廠/watsons-water.md",
-    "售票/演唱會門票銷售.md",
     "售票",
     "Whatsapp 商家計畫/實作方法",
     "Whatsapp 商家計畫/attachments",
-    "Whatsapp 商家計畫/WhatsApp 輕量電商 開源後端系統.md",
     "農業部臺中區農業改良場",
     "水廠",
     "cmoney clone"
