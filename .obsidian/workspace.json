@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d970ac1011ee4bbd",
+        "id": "82506c4b94620d17",
         "type": "tabs",
         "children": [
           {
-            "id": "e350bd27c87a00c4",
+            "id": "3a312c04562671ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,10 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18e6ef7f27ee8108",
+  "active": "3a312c04562671ac",
   "lastOpenFiles": [
-    "().md",
     "person/個人專案整理.md",
+    "().md",
     "農業部臺中區農業改良場/中部農業改良場 LLM 系統教育訓練大綱.md",
     "農業部臺中區農業改良場/交付帳密.md",
     "農業部臺中區農業改良場/未命名.md",
