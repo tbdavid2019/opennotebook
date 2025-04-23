@@ -39,6 +39,8 @@
 - [PDF to Podcast](https://huggingface.co/spaces/tbdavid2019/PDF2Audio)
 - [ip](https://ip.david888.com)
 - [wiki](https://wiki.david888.com)
+- [bot stock](https://bot.david888.com/)
+- [news](https://news.david888.com/)
 
 ### Chrome Extension（瀏覽器擴充套件 / 插件）
 - [小濃縮 (Quick Summary)](https://chromewebstore.google.com/detail/%E5%B0%8F%E6%BF%83%E7%B8%AE-quick-summary/ilgegilcecmgnomacgjiklmhfgioekof?authuser=0&hl=zh-TW)
@@ -50,11 +52,16 @@
 - [小截圖](https://t.me/oli_img_bot)
 - [Oli家 小濃縮 (公開板本) Summary](https://t.me/quantaar_bot)
 - [古靈Gemini](https://t.me/oli_photo_bot)
+![alt text](image-2.png)
+
+### Telegram群組
+- [AI 幫你選出潛力股 | 投資新聞濃縮包](https://t.me/oliservice)
 
 ### Line
 - [解惑人](https://liff.line.me/1645278921-kWRPP32q/?accountId=728wsrjq)
 - [小濃縮](https://liff.line.me/1645278921-kWRPP32q/?accountId=032trcev)
-
+![alt text](image.png)
+![alt text](image-1.png)
 ### Colab
 - [Whisper 轉錄逐字稿 + Gemini 會議總結](https://colab.research.google.com/drive/1nO918SBJZngMcaIzGjykOKqDTQ_T21yD)
 - [新聞爬蟲](https://colab.research.google.com/drive/1HwFJLTXo0UWRhMrP3N2M4XgBILfzrCaA)
@@ -67,6 +74,10 @@
 
 ### BLOG
 - https://david888.com
+
+
+### 電子書字型
+
 
 ---
 ## 金融
@@ -141,20 +152,19 @@ curl http://answerbook.david888.com/greWord
 
   **Telegram**
 
-• [oli家 可求籤的4o](https://t.me/oli_cerebrum_bot)
-• [oli家 小精靈 Claude](https://t.me/oli_cerebellum_bot)
-• [oli家 老精靈 4o](https://t.me/olifamily_bot)
+- [oli家 可求籤的4o](https://t.me/oli_cerebrum_bot)
+- [oli家 小精靈 Claude](https://t.me/oli_cerebellum_bot)
+- [oli家 老精靈 4o](https://t.me/olifamily_bot)
 
   
 
 **HuggingFace Space**
 
-• [潛力股 完整版](https://huggingface.co/spaces/tbdavid2019/Stock-Underdogs)
+- [潛力股 完整版](https://huggingface.co/spaces/tbdavid2019/Stock-Underdogs)
 
 
 
 **Vercel**
-• [LLM3 - nextChat](https://llmchat-rouge.vercel.app)
+ [LLM3 - nextChat](https://llmchat-rouge.vercel.app)
 
   
-
